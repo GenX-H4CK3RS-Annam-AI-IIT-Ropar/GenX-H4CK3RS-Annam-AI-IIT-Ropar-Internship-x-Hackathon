@@ -2,4 +2,4 @@
 
 First Hackathon for an internship by Annam AI (IIT Ropar)
 
-drive link : https://drive.google.com/drive/folders/1MPb0gJZtlPFZ9jauk5JX13sLjGjH8c2R?usp=sharing
+drive link (includes dataset as well): https://drive.google.com/drive/folders/1MPb0gJZtlPFZ9jauk5JX13sLjGjH8c2R?usp=sharing
